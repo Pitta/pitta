@@ -1,8 +1,0 @@
-#+title: README.org for GitHub Profile
-#+author: Justin Pitta
-
-* Heading
-
-** Sub Heading
-
- org-mode
